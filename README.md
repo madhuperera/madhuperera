@@ -3,7 +3,7 @@
 - 🌱 I’m always learning.
 - 📫 How to reach me on:
   - [LinkedIn](https://www.linkedin.com/in/madhuperera/ "LinkedIn")
-  - [Twitter](https://twitter.com/madhu_perera "Twitter")
+- 📚 Check out my [Project Hub](https://github.com/madhuperera/Hub) for a curated list of my repositories.
 
 <!---
 madhuperera/madhuperera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
