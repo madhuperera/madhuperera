@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Madhu%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20Cloud%20%7C%20Endpoint%20Security%20%7C%20Automation&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:38bdf8&height=180&section=header&text=Madhu%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20365%20%7C%20Defender%20%7C%20Intune%20%7C%20Sentinel%20%7C%20Automation&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
       <p>Central landing page for the public repositories I actively maintain.</p>
       <p>
         <a href="https://github.com/madhuperera/Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Hub&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Hub&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -62,7 +62,7 @@
       <p>Scripts, notes, and configuration examples for Microsoft Intune, remediation, compliance, and endpoint operations.</p>
       <p>
         <a href="https://github.com/madhuperera/MEM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=MEM&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=MEM&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -73,7 +73,7 @@
       <p>KQL queries, detection ideas, investigation helpers, and Sentinel operational content.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft_Sentinel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Sentinel&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Sentinel&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -82,7 +82,7 @@
       <p>Microsoft 365 administration, tenant security, configuration notes, and automation examples.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft365">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft365&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft365&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -93,7 +93,7 @@
       <p>Azure security, governance, monitoring, and operational automation content.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft_Azure">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Azure&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Azure&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -102,7 +102,7 @@
       <p>Automation and scripting examples for Datto RMM workflows.</p>
       <p>
         <a href="https://github.com/madhuperera/Datto_RMM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Datto_RMM&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Datto_RMM&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -113,7 +113,7 @@
       <p>Integration and automation examples related to ConnectWise and managed service workflows.</p>
       <p>
         <a href="https://github.com/madhuperera/ConnectWise">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=ConnectWise&theme=github_dark&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=ConnectWise&theme=blue-green&hide_border=true" />
         </a>
       </p>
     </td>
@@ -134,11 +134,11 @@
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuperera&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhuperera&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuperera&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuperera&theme=merko&hide_border=true" />
 </p>
 
 ---
