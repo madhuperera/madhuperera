@@ -1,47 +1,46 @@
-<h1 align="center">Hi, I'm Madhu Perera</h1>
-
 <p align="center">
-  Microsoft cloud, endpoint security, and automation tooling.
-  <br />
-  I build practical scripts, notes, and operational references for real-world Microsoft 365 environments.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Madhu%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20Cloud%20%7C%20Endpoint%20Security%20%7C%20Automation&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/madhuperera/Hub"><strong>Project Hub</strong></a>
-  ·
-  <a href="https://www.linkedin.com/in/madhuperera/"><strong>LinkedIn</strong></a>
+  <a href="https://github.com/madhuperera/Hub">
+    <img src="https://img.shields.io/badge/Project%20Hub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhuperera/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=madhuperera&style=for-the-badge&color=2563eb" />
+</p>
+
+<h2 align="center">Practical Microsoft cloud, endpoint security, and automation tooling</h2>
+
+<p align="center">
+  I build and share practical scripts, notes, and operational references for Microsoft 365, Intune, Defender, Sentinel, Azure, and managed service workflows.
 </p>
 
 ---
 
-## Focus areas
+## About me
 
-<table>
-  <tr>
-    <td><strong>Microsoft Intune</strong></td>
-    <td>Endpoint configuration, remediation scripts, compliance, device operations, and Microsoft Endpoint Manager notes.</td>
-  </tr>
-  <tr>
-    <td><strong>Microsoft Defender</strong></td>
-    <td>Security hardening, endpoint protection, investigation support, and practical operational guidance.</td>
-  </tr>
-  <tr>
-    <td><strong>Microsoft Sentinel</strong></td>
-    <td>KQL queries, detection ideas, log analytics, and security monitoring content.</td>
-  </tr>
-  <tr>
-    <td><strong>Microsoft 365</strong></td>
-    <td>Tenant configuration, security controls, administration notes, and automation examples.</td>
-  </tr>
-  <tr>
-    <td><strong>Azure</strong></td>
-    <td>Governance, monitoring, security operations, and cloud platform automation.</td>
-  </tr>
-  <tr>
-    <td><strong>MSP tooling</strong></td>
-    <td>RMM, PSA, workflow automation, and operational scripting.</td>
-  </tr>
-</table>
+- I work across Microsoft cloud, endpoint management, and cybersecurity.
+- I focus on practical automation that helps IT teams operate more securely and consistently.
+- Most of my public work is centred around Microsoft 365, Intune, Defender, Sentinel, Azure, PowerShell, and KQL.
+- This profile is used as a public workspace for scripts, notes, detection ideas, and operational references.
+
+---
+
+## Languages and tools
+
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-2E76C7?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-2563EB?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-5E5ADB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
@@ -54,16 +53,16 @@
       <p>Central landing page for the public repositories I actively maintain.</p>
       <p>
         <a href="https://github.com/madhuperera/Hub">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Hub&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3>Microsoft Endpoint Manager</h3>
-      <p>Scripts, notes, and examples for Microsoft Intune, endpoint management, remediation, and compliance.</p>
+      <p>Scripts, notes, and configuration examples for Microsoft Intune, remediation, compliance, and endpoint operations.</p>
       <p>
         <a href="https://github.com/madhuperera/MEM">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=MEM&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
@@ -71,10 +70,10 @@
   <tr>
     <td width="50%">
       <h3>Microsoft Sentinel</h3>
-      <p>KQL queries, detection ideas, investigation helpers, and Microsoft Sentinel operational content.</p>
+      <p>KQL queries, detection ideas, investigation helpers, and Sentinel operational content.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft_Sentinel">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Sentinel&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
@@ -83,7 +82,7 @@
       <p>Microsoft 365 administration, tenant security, configuration notes, and automation examples.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft365">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft365&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
@@ -94,7 +93,7 @@
       <p>Azure security, governance, monitoring, and operational automation content.</p>
       <p>
         <a href="https://github.com/madhuperera/Microsoft_Azure">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Azure&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
@@ -103,7 +102,7 @@
       <p>Automation and scripting examples for Datto RMM workflows.</p>
       <p>
         <a href="https://github.com/madhuperera/Datto_RMM">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Datto_RMM&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
@@ -114,16 +113,16 @@
       <p>Integration and automation examples related to ConnectWise and managed service workflows.</p>
       <p>
         <a href="https://github.com/madhuperera/ConnectWise">
-          <strong>Open repository →</strong>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=ConnectWise&theme=github_dark&hide_border=true" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>More coming soon</h3>
-      <p>This profile is being developed as a public workspace for practical Microsoft cloud and security operations content.</p>
+      <h3>All repositories</h3>
+      <p>Browse all public repositories, including scripts, notes, and project workspaces.</p>
       <p>
         <a href="https://github.com/madhuperera?tab=repositories">
-          <strong>View all repositories →</strong>
+          <img src="https://img.shields.io/badge/View%20all%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
@@ -132,18 +131,28 @@
 
 ---
 
-## What this profile is for
+## GitHub activity
 
-This is where I publish practical material from the Microsoft cloud, endpoint, and security operations space.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhuperera&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
 
-The goal is to share useful working examples, not over-engineered theory. Most content here is designed to be adapted, tested, and improved for real operational environments.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuperera&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-## Connect
+## What this profile is for
 
-<p>
+This profile is where I publish practical material from the Microsoft cloud, endpoint, and security operations space.
+
+The goal is to share usable working examples, not polished theory. Most content here is designed to be adapted, tested, and improved for real operational environments.
+
+---
+
+<p align="center">
   <a href="https://www.linkedin.com/in/madhuperera/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
