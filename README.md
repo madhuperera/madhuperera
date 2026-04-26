@@ -48,6 +48,17 @@
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3>CA Automation</h3>
+      <p><strong>Featured project:</strong> PowerShell and Microsoft Graph automation for deploying Microsoft Entra ID Conditional Access policies, named locations, exclusion groups, and baseline identity security controls.</p>
+      <p>
+        <a href="https://github.com/madhuperera/CA-Automation-01">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=CA-Automation-01&theme=blue-green&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Project Hub</h3>
       <p>Central landing page for the public repositories I actively maintain.</p>
