@@ -50,90 +50,137 @@
   <tr>
     <td colspan="2">
       <h3>CA Automation</h3>
-      <p><strong>Featured project:</strong> PowerShell and Microsoft Graph automation for deploying Microsoft Entra ID Conditional Access policies, named locations, exclusion groups, and baseline identity security controls.</p>
+      <p>
+        <strong>Featured project:</strong> PowerShell and Microsoft Graph automation for deploying Microsoft Entra ID Conditional Access policies, named locations, exclusion groups, and baseline identity security controls.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Entra%20ID-Conditional%20Access-2563eb?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-Automation-2E76C7?style=for-the-badge&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft%20Graph-API-0f766e?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </p>
       <p>
         <a href="https://github.com/madhuperera/CA-Automation-01">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=CA-Automation-01&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-CA--Automation--01-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Project Hub</h3>
       <p>Central landing page for the public repositories I actively maintain.</p>
       <p>
+        <img src="https://img.shields.io/badge/GitHub-Project%20Index-334155?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Documentation-Hub-0f766e?style=flat-square" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Hub&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-Hub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3>Microsoft Endpoint Manager</h3>
       <p>Scripts, notes, and configuration examples for Microsoft Intune, remediation, compliance, and endpoint operations.</p>
       <p>
+        <img src="https://img.shields.io/badge/Intune-Endpoint%20Management-2563eb?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-Remediation-2E76C7?style=flat-square&logo=powershell&logoColor=white" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/MEM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=MEM&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-MEM-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Microsoft Sentinel</h3>
       <p>KQL queries, detection ideas, investigation helpers, and Sentinel operational content.</p>
       <p>
+        <img src="https://img.shields.io/badge/Sentinel-SecOps-5E5ADB?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/KQL-Detections-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/Microsoft_Sentinel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Sentinel&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft__Sentinel-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3>Microsoft 365</h3>
       <p>Microsoft 365 administration, tenant security, configuration notes, and automation examples.</p>
       <p>
+        <img src="https://img.shields.io/badge/Microsoft%20365-Tenant%20Security-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+        <img src="https://img.shields.io/badge/Admin-Automation-0f766e?style=flat-square" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/Microsoft365">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft365&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft365-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>Microsoft Azure</h3>
       <p>Azure security, governance, monitoring, and operational automation content.</p>
       <p>
+        <img src="https://img.shields.io/badge/Azure-Governance-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Ops-0f766e?style=flat-square" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/Microsoft_Azure">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Microsoft_Azure&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft__Azure-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3>Datto RMM</h3>
       <p>Automation and scripting examples for Datto RMM workflows.</p>
       <p>
+        <img src="https://img.shields.io/badge/RMM-Automation-334155?style=flat-square" />
+        <img src="https://img.shields.io/badge/PowerShell-Scripts-2E76C7?style=flat-square&logo=powershell&logoColor=white" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/Datto_RMM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=Datto_RMM&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-Datto__RMM-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3>ConnectWise</h3>
       <p>Integration and automation examples related to ConnectWise and managed service workflows.</p>
       <p>
+        <img src="https://img.shields.io/badge/PSA-Integration-334155?style=flat-square" />
+        <img src="https://img.shields.io/badge/MSP-Workflows-0f766e?style=flat-square" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera/ConnectWise">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhuperera&repo=ConnectWise&theme=blue-green&hide_border=true" />
+          <img src="https://img.shields.io/badge/Open%20Repository-ConnectWise-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3>All repositories</h3>
       <p>Browse all public repositories, including scripts, notes, and project workspaces.</p>
       <p>
+        <img src="https://img.shields.io/badge/Public-Repositories-334155?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scripts-Notes%20%7C%20Automation-0f766e?style=flat-square" />
+      </p>
+      <p>
         <a href="https://github.com/madhuperera?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20all%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
