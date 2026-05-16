@@ -1,5 +1,13 @@
+<h1 align="center">Madhu Perera</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:38bdf8&height=180&section=header&text=Madhu%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20365%20%7C%20Defender%20%7C%20Intune%20%7C%20Sentinel%20%7C%20Automation&descAlignY=55&descSize=16" />
+  <strong>Microsoft 365 | Defender | Intune | Sentinel | Automation</strong>
+</p>
+
+<p align="center">
+  Practical Microsoft cloud, endpoint security, and automation tooling.
+  <br />
+  I build and share scripts, notes, and operational references for real-world Microsoft 365 environments.
 </p>
 
 <p align="center">
@@ -10,12 +18,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=madhuperera&style=for-the-badge&color=2563eb" />
-</p>
-
-<h2 align="center">Practical Microsoft cloud, endpoint security, and automation tooling</h2>
-
-<p align="center">
-  I build and share practical scripts, notes, and operational references for Microsoft 365, Intune, Defender, Sentinel, Azure, and managed service workflows.
 </p>
 
 ---
@@ -189,15 +191,26 @@
 
 ---
 
-## GitHub activity
+## Current focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuperera&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=madhuperera&theme=merko&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Microsoft 365 security</h3>
+      <p>Identity hardening, Conditional Access, Defender, Sentinel, Intune, tenant security, and operational security baselines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Microsoft%20365%20Security-2563eb?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Practical automation</h3>
+      <p>PowerShell, Microsoft Graph, GitHub Actions, repeatable deployment patterns, and operational tooling for IT teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Public%20Workspace-Scripts%20%7C%20Notes%20%7C%20Automation-0f766e?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
