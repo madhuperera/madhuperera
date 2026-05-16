@@ -1,13 +1,5 @@
-<h1 align="center">Madhu Perera</h1>
-
 <p align="center">
-  <strong>Microsoft 365 | Defender | Intune | Sentinel | Automation</strong>
-</p>
-
-<p align="center">
-  Practical Microsoft cloud, endpoint security, and automation tooling.
-  <br />
-  I build and share scripts, notes, and operational references for real-world Microsoft 365 environments.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:38bdf8&height=180&section=header&text=Madhu%20Perera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20365%20%7C%20Defender%20%7C%20Intune%20%7C%20Sentinel%20%7C%20Automation&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
@@ -18,6 +10,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=madhuperera&style=for-the-badge&color=2563eb" />
+</p>
+
+<h2 align="center">Practical Microsoft cloud, endpoint security, and automation tooling</h2>
+
+<p align="center">
+  I build and share practical scripts, notes, and operational references for Microsoft 365, Intune, Defender, Sentinel, Azure, and managed service workflows.
 </p>
 
 ---
@@ -50,140 +48,80 @@
 
 <table>
   <tr>
-    <td colspan="2">
-      <h3>CA Automation</h3>
-      <p>
-        <strong>Featured project:</strong> PowerShell and Microsoft Graph automation for deploying Microsoft Entra ID Conditional Access policies, named locations, exclusion groups, and baseline identity security controls.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Entra%20ID-Conditional%20Access-2563eb?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/PowerShell-Automation-2E76C7?style=for-the-badge&logo=powershell&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microsoft%20Graph-API-0f766e?style=for-the-badge&logo=microsoft&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/CA-Automation-01">
-          <img src="https://img.shields.io/badge/Open%20Repository-CA--Automation--01-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>Project Hub</h3>
+    <td width="50%" valign="top">
+      <h3>📌 <a href="https://github.com/madhuperera/Hub">Project Hub</a></h3>
       <p>Central landing page for the public repositories I actively maintain.</p>
       <p>
-        <img src="https://img.shields.io/badge/GitHub-Project%20Index-334155?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Documentation-Hub-0f766e?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/Hub">
-          <img src="https://img.shields.io/badge/Open%20Repository-Hub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/Hub"><img src="https://img.shields.io/github/stars/madhuperera/Hub?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/Hub/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/Hub?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/Hub"><img src="https://img.shields.io/github/languages/top/madhuperera/Hub?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
-
-    <td width="50%">
-      <h3>Microsoft Endpoint Manager</h3>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/madhuperera/MEM">Microsoft Endpoint Manager</a></h3>
       <p>Scripts, notes, and configuration examples for Microsoft Intune, remediation, compliance, and endpoint operations.</p>
       <p>
-        <img src="https://img.shields.io/badge/Intune-Endpoint%20Management-2563eb?style=flat-square&logo=microsoft&logoColor=white" />
-        <img src="https://img.shields.io/badge/PowerShell-Remediation-2E76C7?style=flat-square&logo=powershell&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/MEM">
-          <img src="https://img.shields.io/badge/Open%20Repository-MEM-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/MEM"><img src="https://img.shields.io/github/stars/madhuperera/MEM?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/MEM/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/MEM?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/MEM"><img src="https://img.shields.io/github/languages/top/madhuperera/MEM?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <h3>Microsoft Sentinel</h3>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/madhuperera/Microsoft_Sentinel">Microsoft Sentinel</a></h3>
       <p>KQL queries, detection ideas, investigation helpers, and Sentinel operational content.</p>
       <p>
-        <img src="https://img.shields.io/badge/Sentinel-SecOps-5E5ADB?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/KQL-Detections-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/Microsoft_Sentinel">
-          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft__Sentinel-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/Microsoft_Sentinel"><img src="https://img.shields.io/github/stars/madhuperera/Microsoft_Sentinel?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/Microsoft_Sentinel/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/Microsoft_Sentinel?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/Microsoft_Sentinel"><img src="https://img.shields.io/github/languages/top/madhuperera/Microsoft_Sentinel?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
-
-    <td width="50%">
-      <h3>Microsoft 365</h3>
+    <td width="50%" valign="top">
+      <h3>📧 <a href="https://github.com/madhuperera/Microsoft365">Microsoft 365</a></h3>
       <p>Microsoft 365 administration, tenant security, configuration notes, and automation examples.</p>
       <p>
-        <img src="https://img.shields.io/badge/Microsoft%20365-Tenant%20Security-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
-        <img src="https://img.shields.io/badge/Admin-Automation-0f766e?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/Microsoft365">
-          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft365-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/Microsoft365"><img src="https://img.shields.io/github/stars/madhuperera/Microsoft365?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/Microsoft365/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/Microsoft365?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/Microsoft365"><img src="https://img.shields.io/github/languages/top/madhuperera/Microsoft365?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <h3>Microsoft Azure</h3>
-      <p>Azure security, governance, monitoring, and operational automation content.</p>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/madhuperera/CA-Automation-01">CA-Automation-01</a></h3>
+      <p>Conditional Access automation workflows, baselines, and tenant policy lifecycle tooling.</p>
       <p>
-        <img src="https://img.shields.io/badge/Azure-Governance-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-Ops-0f766e?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/Microsoft_Azure">
-          <img src="https://img.shields.io/badge/Open%20Repository-Microsoft__Azure-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/CA-Automation-01"><img src="https://img.shields.io/github/stars/madhuperera/CA-Automation-01?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/CA-Automation-01/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/CA-Automation-01?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/CA-Automation-01"><img src="https://img.shields.io/github/languages/top/madhuperera/CA-Automation-01?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
-
-    <td width="50%">
-      <h3>Datto RMM</h3>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/madhuperera/Datto_RMM">Datto RMM</a></h3>
       <p>Automation and scripting examples for Datto RMM workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/RMM-Automation-334155?style=flat-square" />
-        <img src="https://img.shields.io/badge/PowerShell-Scripts-2E76C7?style=flat-square&logo=powershell&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/Datto_RMM">
-          <img src="https://img.shields.io/badge/Open%20Repository-Datto__RMM-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/Datto_RMM"><img src="https://img.shields.io/github/stars/madhuperera/Datto_RMM?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/Datto_RMM/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/Datto_RMM?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/Datto_RMM"><img src="https://img.shields.io/github/languages/top/madhuperera/Datto_RMM?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
   </tr>
-
   <tr>
-    <td width="50%">
-      <h3>ConnectWise</h3>
-      <p>Integration and automation examples related to ConnectWise and managed service workflows.</p>
+    <td width="50%" valign="top">
+      <h3>🏷️ <a href="https://github.com/madhuperera/naming-conventions">Naming Conventions</a></h3>
+      <p>Reference naming conventions for Azure, Entra ID, Intune, Exchange Online, Defender XDR, and Teams.</p>
       <p>
-        <img src="https://img.shields.io/badge/PSA-Integration-334155?style=flat-square" />
-        <img src="https://img.shields.io/badge/MSP-Workflows-0f766e?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera/ConnectWise">
-          <img src="https://img.shields.io/badge/Open%20Repository-ConnectWise-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera/naming-conventions"><img src="https://img.shields.io/github/stars/madhuperera/naming-conventions?style=flat-square&logo=github&color=2563eb&labelColor=0f172a" alt="Stars" /></a>
+        <a href="https://github.com/madhuperera/naming-conventions/commits"><img src="https://img.shields.io/github/last-commit/madhuperera/naming-conventions?style=flat-square&logo=git&color=0ea5e9&labelColor=0f172a" alt="Last commit" /></a>
+        <a href="https://github.com/madhuperera/naming-conventions"><img src="https://img.shields.io/github/languages/top/madhuperera/naming-conventions?style=flat-square&color=1d4ed8&labelColor=0f172a" alt="Top language" /></a>
       </p>
     </td>
-
-    <td width="50%">
-      <h3>All repositories</h3>
+    <td width="50%" valign="top">
+      <h3>📂 <a href="https://github.com/madhuperera?tab=repositories">All repositories</a></h3>
       <p>Browse all public repositories, including scripts, notes, and project workspaces.</p>
       <p>
-        <img src="https://img.shields.io/badge/Public-Repositories-334155?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scripts-Notes%20%7C%20Automation-0f766e?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/madhuperera?tab=repositories">
-          <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/madhuperera?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
       </p>
     </td>
   </tr>
@@ -191,26 +129,19 @@
 
 ---
 
-## Current focus
+## GitHub activity
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Microsoft 365 security</h3>
-      <p>Identity hardening, Conditional Access, Defender, Sentinel, Intune, tenant security, and operational security baselines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Microsoft%20365%20Security-2563eb?style=for-the-badge&logo=microsoft&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Practical automation</h3>
-      <p>PowerShell, Microsoft Graph, GitHub Actions, repeatable deployment patterns, and operational tooling for IT teams.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Public%20Workspace-Scripts%20%7C%20Notes%20%7C%20Automation-0f766e?style=for-the-badge&logo=github&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/madhuperera"><img src="https://img.shields.io/github/followers/madhuperera?style=for-the-badge&logo=github&label=Followers&color=2563eb&labelColor=0f172a" alt="Followers" /></a>
+  <a href="https://github.com/madhuperera?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmadhuperera&color=0ea5e9&labelColor=0f172a" alt="Public repos" /></a>
+  <a href="https://github.com/madhuperera"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Member%20since&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmadhuperera&color=1d4ed8&labelColor=0f172a" alt="Member since" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/madhuperera/Hub"><img src="https://img.shields.io/badge/Focus-Microsoft%20365%20%7C%20Defender%20%7C%20Intune%20%7C%20Sentinel-2563eb?style=for-the-badge&labelColor=0f172a" alt="Focus" /></a>
+  <a href="https://github.com/madhuperera?tab=repositories&q=&type=&language=powershell"><img src="https://img.shields.io/badge/Primary%20language-PowerShell-2E76C7?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0f172a" alt="Primary language" /></a>
+  <a href="https://github.com/madhuperera/Microsoft_Sentinel"><img src="https://img.shields.io/badge/Detection-KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0f172a" alt="KQL" /></a>
+</p>
 
 ---
 
